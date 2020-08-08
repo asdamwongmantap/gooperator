@@ -1,2 +1,2 @@
 # gooperator
-Implementasi penggunaan operator menggunakan GIN Golang
+Implementation of the use of operators using GIN Golang
